@@ -1,0 +1,3 @@
+[submodule "VIVO-IEG"]
+	path = VIVO-IEG
+	url = https://github.com/chhummelat/VIVO-IEG.git
